@@ -1,8 +1,8 @@
 ---
 title: 'Hi, my name is'
-name: 'Brittany Chiang'
-subtitle: 'I build things for the web.'
+name: 'Saad Irfan'
+subtitle: 'An Aspiring Web Developer'
 buttonText: 'Get In Touch'
 ---
 
-I'm a software engineer based in Boston, MA specializing in building (and occasionally designing) exceptional websites, applications, and everything in between.
+I am an aspiring Web Developer currently pursing my Bachelor's from the University of Engineering & technology.
